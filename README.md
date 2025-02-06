@@ -4,7 +4,7 @@
 - 🌱 **I’m currently learning:** React, React Native, .NET Web APIs, and advanced C#.  
 - 💞️ **I’m looking to collaborate on:** Open-source projects, educational platforms, and innovative apps that make life easier.  
 - 📫 **How to reach me:**  
-  - Email: danielchiwanda@gmail.com  
+  - Email: danielchiwanda99@gmail.com  
   - LinkedIn: [Daniel Chiwanda](https://linkedin.com/in/danielchiwanda)  
   - GitHub: [@chiwanda70](https://github.com/chiwanda70)  
 
